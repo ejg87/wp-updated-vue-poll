@@ -2,8 +2,8 @@
 /*
 Plugin Name: My Enhanced Poll Plugin
 Description: An enhanced plugin to create and manage polls, and serve their content via REST API.
-Version: 1.0
-Author: Your Name
+Version: .01
+Author: EJ Goralewski
 */
 
 // Create a custom post type for Polls
